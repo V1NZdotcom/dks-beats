@@ -58,7 +58,10 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-image:url("./pexels-photo-257904.jpeg")
+  background-image:url("./pexels-photo-257904.jpeg");
+  width: 100%;
+   margin: 0px;
+   padding: 0px;
 }
 
 body {
@@ -71,4 +74,17 @@ body {
 
 .cover-container {
   max-width: 42em;
+}
+
+.btn{
+  background-color:#6B4E71;
+}
+
+.containerform{position: absolute;
+top:0;
+bottom: 0;
+left: 0;
+right: 0;
+margin: auto;
+
 }
