@@ -72,3 +72,13 @@ body {
 .cover-container {
   max-width: 42em;
 }
+
+
+
+.jumbotron{
+    background-color:transparent;
+}
+
+.container{
+    background-color:transparent;
+}
